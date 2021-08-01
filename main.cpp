@@ -1,6 +1,6 @@
 #include <iostream>
 
-void Test() {
+int Test() {
     return 0;
 }
 
