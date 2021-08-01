@@ -1,7 +1,7 @@
 #include <iostream>
 
 int Test() {
-    return 0;
+    return 1;
 }
 
 int main(int argc, char** argv_) {
